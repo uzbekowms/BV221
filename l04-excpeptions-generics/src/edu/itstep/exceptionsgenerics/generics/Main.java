@@ -76,6 +76,7 @@ public class Main {
         Cat cat4 = new Cat(10);
         Cat cat5 = new Cat(7);
 //        System.out.println(max(cat, cat2));
+
         List<Cat> cats = new ArrayList<>();
         cats.add(cat);
         cats.add(cat2);
