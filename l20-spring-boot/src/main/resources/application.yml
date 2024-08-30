@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: l20-spring-boot
+  output:
+    ansi:
+      enabled: always
+server:
+  port: 8000
